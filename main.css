@@ -1,0 +1,44 @@
+
+section  {
+    background-color: gray;
+    text-align: center;
+    height: 250;
+    width: 150;
+}
+h1 { 
+    margin-top: auto;
+    color: white;
+    font-size: 3em;
+    padding-top: 16px;
+    page-break-after: auto;
+}
+
+h2 {
+    color: white;
+    font-size: 2em;
+    line-height: .1em;
+}
+
+h3 {
+    color: black;
+    font-size: 1 em;
+    line-height: .1em;
+    vertical-align: middle;
+}
+
+#red-bacground{
+    background-color: red;
+    border-radius: 25px;
+    margin: auto;
+    
+    
+
+}
+#name-plate {
+    background-color: honeydew;
+    padding: 5px;
+    height: 25%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
