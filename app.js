@@ -1,5 +1,5 @@
 
-/* chages the name in the butten id */
+/* program chages the name in the name plate */
 
 
 //check if it was conected
@@ -11,7 +11,7 @@ const nameTage = document.getElementById('names');
 //butten id
 const thisButten = document.getElementById('the-butten');
 
-//butten eventlissener
+//butten eventlisener
 thisButten.addEventListener( 'click', clickButten);
 
 
